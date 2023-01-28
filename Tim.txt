@@ -1,0 +1,47 @@
+a. Nama Tim: valhalla
+b. Anggota Tim:
+	1. Albert  (19 111 1711)
+	2. Anthony (19 111 0228)
+	3. Henry   (19 111 0660)
+
+c. Judul Prototype: Infocation
+d. Deskripsi Prototype: Aplikasi rekomendasi tempat wisata dan layanan tour guide berbasis mobile
+e. Link GitHub: https://github.com/ItsHiraeths/Valhalla
+f. List User Story: (yang selesai)
+	1. Register
+		Sebagai user, saya ingin melakukan login dengan akun saya sendiri.
+
+	2. Sign In
+		Sebagai user, saya ingin mempunyai akun sendiri.
+
+	3. Sign Out
+		Sebagai user, saya ingin melakukan logout setelah selesai menggunakan aplikasi agar orang lain tidak dapat mengakses akun saya apabila bukan saya yang menggunakan aplikasi.
+
+	4. View Profile
+		Sebagai user, saya ingin melihat profil saya sendiri.
+
+	5. Edit Profile
+		Sebagai user, saya ingin memiliki opsi untuk mengedit profil saya.
+
+	6. Change Password
+		Sebagai user, saya ingin mengubah password saya.
+
+	7. Payment dengan menggunakan e-money
+		Sebagai user, saya ingin agar pembayaran dapat dilakukan sefleksibel mungkin, seperti dapat menggunakan e-money.
+
+	8. Rekomendasi Tempat Wisata
+		Sebagai user, saya ingin diberikan rekomendasi tempat wisata baru yang dapat menarik perhatian saya.
+
+	9. Rating Tempat Wisata
+		Setiap tempat wisata yang telah dikunjungi user dapat diberikan rating oleh user sebagai bahan pertimbangan user yang lain untuk mengunjungi tempat wisata tersebut.
+
+	10. Rekomendasi Tour Guide
+		Sebagai user, saya ingin diberikan rekomendasi tour guide yang paling dapat diandalkan untuk mendampingi saya ketika di tempat wisata.
+
+	11. Rating/Review/Complain Tour Guide
+		Sebagai user, saya ingin memberikan komplain apabila pelayanan yang saya dapatkan tidak sesuai dengan ekspektasi saya.
+
+	12. ChatBot
+		Fitur Chatbot untuk menjawab FAQ yang sering ditanyakan.
+	
+g. Link Trello: https://trello.com/b/3B1Mu5Fp/infocation
